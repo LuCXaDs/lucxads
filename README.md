@@ -9,7 +9,7 @@
  
 </div>
 
-![Copie de application developer (1)](https://user-images.githubusercontent.com/69203865/188984675-be8753b6-f982-496c-9d16-0ec3811697ab.svg)
+![Copie de application developer (1024 × 300 px) (3)](https://user-images.githubusercontent.com/69203865/188989150-a3d048d5-23ba-43bf-8c5e-12ee6b59d4ec.svg)
 
 <h2>🔭 I’m currently learning in <a href="https://42.fr/en/homepage/">42 school</a></h2>
 <h4>Languages and tools :</h4>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://github.com/LuCXaDs">![Sans titre (512 × 400 px) (1024 × 400 px) (1)](https://user-images.githubusercontent.com/69203865/188985970-9411ba3b-8926-4ee5-956b-7816f4518bcb.svg)</a>
+![Sans titre (512 × 400 px) (1024 × 400 px) (4)](https://user-images.githubusercontent.com/69203865/188989446-6f8d23dc-f57a-4e8e-a7cb-a13c1ae03d49.svg)
  
 </div>
 
