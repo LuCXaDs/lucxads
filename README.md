@@ -1,6 +1,6 @@
 ![application developer](https://user-images.githubusercontent.com/69203865/188951844-bcad61de-7116-4a8d-8fda-d7d0205a5c94.svg)
 
-<h2>🔭 I’m learning a mobile development</h2>
+<h2>🔭 I’m learning mobile development</h2>
 <h4>Languages and tools :</h4>
 <div align="center">
     
@@ -8,7 +8,7 @@
  
 </div>
 
-![Copie de application developer](https://user-images.githubusercontent.com/69203865/188983426-bcb4fb8f-8b77-4b85-8596-9ea4824ed6fb.svg)
+![Copie de application developer (1)](https://user-images.githubusercontent.com/69203865/188984675-be8753b6-f982-496c-9d16-0ec3811697ab.svg)
 
 <h2>🔭 I’m currently learning in <a href="https://42.fr/en/homepage/">42 school</a></h2>
 <h4>Languages and tools :</h4>
@@ -23,11 +23,9 @@
 
 <div align="center">
 
-<a href="https://github.com/LuCXaDs">![Sans titre (512 × 400 px)](https://user-images.githubusercontent.com/69203865/188979502-92776585-5474-43ce-a52a-a8faec58460b.svg)</a>
+<a href="https://github.com/LuCXaDs">![Sans titre (512 × 400 px) (1024 × 400 px) (1)](https://user-images.githubusercontent.com/69203865/188985970-9411ba3b-8926-4ee5-956b-7816f4518bcb.svg)</a>
  
 </div>
-
-![Counter](https://gpvc.arturio.dev/LuCXaDs)
 
 
 <!-- <div align="center">
