@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="480" height="240"/><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="480" height="240"/></p>
+<p align="center"><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="400" height="200"/><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="400" height="200"/></p>
 
 <h2>Currently Languages</h2>
 
