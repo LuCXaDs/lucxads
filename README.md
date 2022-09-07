@@ -4,7 +4,8 @@
 <h4>Languages and tools :</h4>
 <div align="center">
     
-![Dart (1)](https://user-images.githubusercontent.com/69203865/188973273-ef7657c0-364f-4cd7-8421-c453bd88f1fd.svg)
+![Dart (480 × 75 px) (800 × 125 px)](https://user-images.githubusercontent.com/69203865/188986380-c0c8bb5b-25bf-4309-b2de-9323b7faf2f6.svg)
+
  
 </div>
 
