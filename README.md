@@ -1,19 +1,9 @@
 ![application developer](https://user-images.githubusercontent.com/69203865/188951844-bcad61de-7116-4a8d-8fda-d7d0205a5c94.svg)
 
 
-<h2>Currently Languages</h2>
+<h2 style="font size: 10em">Currently Languages</h2>
 
-<div class="container">
-  <div 
-  style="
-  display:flex;
-  flex-direction: column;
-  flex-grow:1;
-  background:lightgray;  
-  min-width: 60%;
-  justify-content:center;
-  padding:0.5em;
-  ">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"             alt="Flutter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart"           width="35" height="35"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase"             alt="Firebase" width="40" height="40"/>
