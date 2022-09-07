@@ -17,10 +17,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55"/>
 </div>
+
+
+<div align="center">
+
+<a href="https://github.com/LuCXaDs">![Sans titre (512 × 400 px)](https://user-images.githubusercontent.com/69203865/188979502-92776585-5474-43ce-a52a-a8faec58460b.svg)</a>
+ 
+</div>
+
 ![Counter](https://gpvc.arturio.dev/LuCXaDs)
-
-
-
 
 
 <!-- <div align="center">
