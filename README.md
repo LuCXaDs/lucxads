@@ -20,8 +20,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55"/>
 </div>
+
 ![Counter](https://gpvc.arturio.dev/LuCXaDs)
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <!--
 **LuCXaDs/lucxads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
