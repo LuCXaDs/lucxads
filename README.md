@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<p align="center"><img src="https://media.giphy.com/media/EazEvxdXVu2sVfjEsH/giphy.gif" width="512" height="256"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="480" height="240"/><img src="https://media.giphy.com/media/eviN38jr1tlOw7mRvW/giphy.gif" width="480" height="240"/></p>
 
 <h2>Currently Languages</h2>
 
