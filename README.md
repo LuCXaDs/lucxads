@@ -8,6 +8,8 @@
  
 </div>
 
+![Copie de application developer](https://user-images.githubusercontent.com/69203865/188983426-bcb4fb8f-8b77-4b85-8596-9ea4824ed6fb.svg)
+
 <h2>🔭 I’m currently learning in <a href="https://42.fr/en/homepage/">42 school</a></h2>
 <h4>Languages and tools :</h4>
 
