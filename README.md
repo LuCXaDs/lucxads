@@ -2,30 +2,34 @@
 
 <h2>🔭 I’m learning mobile development</h2>
 <h4>Languages and tools :</h4>
-<div align="center">
-    
-![Dart (480 × 75 px) (800 × 125 px)](https://user-images.githubusercontent.com/69203865/188986380-c0c8bb5b-25bf-4309-b2de-9323b7faf2f6.svg)
 
- 
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/>
 </div>
 
-![Copie de application developer (1024 × 300 px) (3)](https://user-images.githubusercontent.com/69203865/188989150-a3d048d5-23ba-43bf-8c5e-12ee6b59d4ec.svg)
+<!-- ![Copie de application developer (1024 × 300 px) (3)](https://user-images.githubusercontent.com/69203865/188989150-a3d048d5-23ba-43bf-8c5e-12ee6b59d4ec.svg) -->
 
 <h2>🔭 I’m currently learning in <a href="https://42.fr/en/homepage/">42 school</a></h2>
 <h4>Languages and tools :</h4>
 
-<div align="center">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 
 ![Sans titre (512 × 400 px) (1024 × 400 px) (4)](https://user-images.githubusercontent.com/69203865/188989446-6f8d23dc-f57a-4e8e-a7cb-a13c1ae03d49.svg)
  
+</div> -->
+
+<div>
 </div>
 
 ![Counter](https://gpvc.arturio.dev/LuCXaDs)
