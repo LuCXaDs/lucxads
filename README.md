@@ -1,4 +1,5 @@
-![application developer](https://user-images.githubusercontent.com/69203865/188951844-bcad61de-7116-4a8d-8fda-d7d0205a5c94.svg)
+
+![TS (9)](https://github.com/LuCXaDs/lucxads/assets/69203865/31c1fe6b-9439-4aec-b34f-17422c061c0d)
 
 <h2>🔭 I’m learning mobile development</h2>
 <h4>Languages and tools :</h4>
