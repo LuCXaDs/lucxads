@@ -35,7 +35,10 @@
     <br>   
 </div>
 
-![Counter](https://gpvc.arturio.dev/LuCXaDs)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuCXaDs&show_icons=true&theme=onedark&locale=en&layout=compact" alt="LuCXaDs" /></p>
+
+<!--  ![Counter](https://gpvc.arturio.dev/LuCXaDs) --> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuCXaDs&label=Profile%20views&color=0e75b6&style=flat" alt="LuCXaDs" /> </p>
 
 <!-- <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>
